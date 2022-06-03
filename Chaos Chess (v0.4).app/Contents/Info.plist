@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string></string>
+	<key>BuildMachineOSBuild</key>
+	<string>21D62</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Chaos Chess</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mckinleykeys.chaos-chess.macos</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Chaos Chess</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.4</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>4</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>13C100</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>12.1</string>
+	<key>DTSDKBuild</key>
+	<string>21C46</string>
+	<key>DTSDKName</key>
+	<string>macosx12.1</string>
+	<key>DTXcode</key>
+	<string>1321</string>
+	<key>DTXcodeBuild</key>
+	<string>13C100</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.games</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>NSMainStoryboardFile</key>
+	<string>Main</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Artifika Regular.ttf</string>
+		<string>Lemonada Regular.ttf</string>
+		<string>Proxima Nova Alt Regular.otf</string>
+		<string>Proxima Nova Alt Regular Italic.otf</string>
+		<string>Proxima Nova Alt Bold.otf</string>
+		<string>Proxima Nova Alt Bold Italic.otf</string>
+		<string>Bubble Bobble.ttf</string>
+		<string>Sofia Pro UltraLight.otf</string>
+		<string>Sofia Pro UltraLight Italic.otf</string>
+		<string>Sofia Pro ExtraLight.otf</string>
+		<string>Sofia Pro ExtraLight Italic.otf</string>
+		<string>Sofia Pro Light.otf</string>
+		<string>Sofia Pro Light Italic.otf</string>
+		<string>Sofia Pro Regular.otf</string>
+		<string>Sofia Pro Regular Italic.otf</string>
+		<string>Sofia Pro Medium.otf</string>
+		<string>Sofia Pro Medium Italic.otf</string>
+		<string>Sofia Pro Semi Bold.otf</string>
+		<string>Sofia Pro Semi Bold Italic.otf</string>
+		<string>Sofia Pro Bold.otf</string>
+		<string>Sofia Pro Bold Italic.otf</string>
+		<string>Sofia Pro Black.otf</string>
+		<string>Sofia Pro Black Italic.otf</string>
+		<string>Cera Pro Thin.otf</string>
+		<string>Cera Pro Thin Italic.otf</string>
+		<string>Cera Pro Light.otf</string>
+		<string>Cera Pro Light Italic.otf</string>
+		<string>Cera Pro Regular.otf</string>
+		<string>Cera Pro Regular Italic.otf</string>
+		<string>Cera Pro Medium.otf</string>
+		<string>Cera Pro Medium Italic.otf</string>
+		<string>Cera Pro Bold.otf</string>
+		<string>Cera Pro Bold Italic.otf</string>
+		<string>Cera Pro Black.otf</string>
+		<string>Cera Pro Black Italic.otf</string>
+	</array>
+</dict>
+</plist>
