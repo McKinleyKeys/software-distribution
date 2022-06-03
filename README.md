@@ -1,7 +1,7 @@
 
 ## Variants
 
- - **Exploding Knights:** When a knight captures a piece, it causes an explosion that destroys the knight and all pieces adjacent to the it.
+ - **Exploding Knights:** When a knight captures a piece, it triggers an explosion that destroys the knight and all pieces adjacent to it.
  - **Backstabbing:** Players may capture their own pieces.
  - **Compulsion:** If a player can capture a piece, they must capture a piece.
  - **Forced Check:** If a player can put their opponent in check, they must put their opponent in check.
