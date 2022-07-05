@@ -2,7 +2,7 @@
 ## Variants
 
  - **Exploding Knights:** When a knight captures a piece, it triggers an explosion that destroys the knight and all pieces adjacent to it.
- - **Backstabbing:** Players may capture their own pieces.
+ - **Backstabbing:** Players may capture their own pieces. Players may not capture their own king.
  - **Compulsion:** If a player can capture a piece, they must capture a piece.
  - **Forced Check:** If a player can put their opponent in check, they must put their opponent in check.
  - **Loser's:** If a player can capture a piece, they must capture a piece. Kings may be captured. Players win not by checkmating their opponent, but by losing all their pieces.
