@@ -18,15 +18,15 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		zRtZlLcSxAFIajQa3aqmin7T3/w=
+		AzrmIx0620pP7EZ7PHX7Mh7nUTw=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Main Window Controller.nib</key>
 		<data>
-		cgZdlPhWJUsWkGDvKVwXa1BOwqw=
+		P+WriNCkeaR/fLwroYwCohUor9c=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		E8WeuBBNuoz10E0URh33s3vjWtc=
+		8G/WIihu+yY411ONyf0Cym9Rfyo=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Resources/Trove.bundle/Contents/MacOS/Trove</key>
 		<data>
-		dYzSM5lApw3uCpqBa0/vm7zOEC0=
+		DYg2htRNFSKBu/FM8FCuNaB/T2Q=
 		</data>
 		<key>Resources/Trove.bundle/Contents/Resources/Apple Notes Dark.jpg</key>
 		<data>
@@ -831,19 +831,19 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OBFT1pwOLqoK8sXgot9AdxKx8Io=
+			AahE7QuHTZwhCUts3vOvLdFsHHs=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dt.runtime.swiftConcurrency" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: McKinley Keys (MTZPF7F84P)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftConcurrency" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "45GZP8ACP5")</string>
 		</dict>
 		<key>PlugIns/Trove.bundle</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Kfg521uz5IDArMqLMbmwvi+XIBc=
+			9sCvf7NYHSYJkJSq+G2I53Y8hAg=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.mckinleykeys.chaos-chess.trove" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: McKinley Keys (MTZPF7F84P)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+			<string>anchor apple generic and identifier "com.mckinleykeys.chaos-chess.trove" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "45GZP8ACP5")</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
@@ -870,21 +870,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			54LAMCqn60mScfpNuqkvW8Ko2VXuMhaS0xgO9WrY7Vc=
+			pg0nuMIWnOxb+Li+cIeDIs3+wXUmXGLYAtLlJQhrH9g=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Main Window Controller.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cgKkqJqi5rUZDqYrefzuKbkVx2g2rWaOiXfmUKm0OUo=
+			av4vPWS6KiNTnhzfAaL7wWnSklJSnRbagDO1tTeXnpg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d20pquEry0RlXev58FeIR18D7pwbCgWPLbbERlKyNNk=
+			VxkiywoG7CpK+DUD6FT9G2yyZflGqj8UyUK8DC8OHwQ=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
@@ -1143,7 +1143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cJc0kQbVYn5moOPb3zHb7QOVKPiktVOV863NHigdAH4=
+			CE3QObicvrOQNw4z4bh+IU5/A0tsYeb8ien41ZOk2lM=
 			</data>
 		</dict>
 		<key>Resources/Trove.bundle/Contents/Resources/Apple Notes Dark.jpg</key>
